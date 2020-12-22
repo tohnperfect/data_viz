@@ -5,3 +5,5 @@
 ตัวอย่างการแทรกรูป
 
 ![kkulogo](KKUlogo.png)
+
+![scoring 2020](scoring.JPG)
