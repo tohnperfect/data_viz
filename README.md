@@ -7,3 +7,6 @@
 ![kkulogo](KKUlogo.png)
 
 ![scoring 2020](scoring.JPG)
+
+qr to github repositories
+![QR to repo](repo2021.PNG)
